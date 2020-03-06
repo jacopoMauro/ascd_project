@@ -1,1 +1,1 @@
-The Website of the Choral Programming Language
+The Website of the project ASCD (Assessment on the Status of CyberSecurity in Denmark).
