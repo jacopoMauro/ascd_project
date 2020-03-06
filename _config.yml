@@ -1,0 +1,20 @@
+title: Assessment on the Status of CyberSecurity in Denmark
+author: <a href="https://www.sdu.dk/da/Om_SDU/Institutter_centre/Imada_matematik_og_datalogi">University of Southern Denmark</a> & <a href="https://www.itu.dk/" >IT University of Copenhagen</a>
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+collections:
+  examples:
+    output: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
