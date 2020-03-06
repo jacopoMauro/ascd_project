@@ -2,13 +2,15 @@
 layout: home
 ---
 
-# Context of the ASCD Project
+ASCD is the acronym for Assessment on the Status of CyberSecurity in Denmark and it is a research project founded by the Danish Centre for CyberSecurity.
+
+## Context of the ASCD Project
 
 To stay competitive in the global market, software companies have adopted software engineering practices such as DevOps and Microservices, which enable them to deliver and maintain an ever-growing set of functionalities in their products. 
 
 A side-effect of this phenomenon is an increased complexity of software architecture and team coordination, which heavily impacts on cybersecurity, i.e., the guarantees that a company can provide about the security and privacy of their applications - e.g., that the software is not vulnerable to a certain spectrum of cyberattacks and/or it properly addresses the privacy concerns of the end-users (e.g., GDPR).
 
-# Aim of the Project 
+## Aim of the Project 
 
 There is no report on the current status of awareness and the use of secure and privacy-preserving methods among Danish companies and present the data in a statistically significant manner.
 
@@ -16,7 +18,7 @@ The ASCD project aims to study and report on the existing cybersecurity and priv
 
 The results obtained by the investigations and reports of the ASCD will be useful to support informed decisions on what, where, and how to invest to improve and secure the critical and not critical applications in the Danish context, including how to address privacy issues that are becoming especially relevant in light of the introduction of the GDPR.
 
-# Project Activities
+## Project Activities
 
 Activities planned within the project include:
 
@@ -29,7 +31,7 @@ Activities planned within the project include:
    - describe the challenges companies face in implementing proper measures for security and privacy protection and possible remedies
    - outline directions for future research and funding opportunities at the national and international level (e.g., Horizon Europe program) to boost up the security of Danish companies.
  
-# People and Institutions
+## People and Institutions
 
 SDU and ITU are front-runners in developing and promoting best security practices for digital services (see, e.g., our influence on the [NIST document on security practices for microservices](https://csrc.nist.gov/publications/detail/sp/800-204/final)). 
 
@@ -39,6 +41,6 @@ The principal co-investigators of the ASCD project are:
 - [Jacopo Mauro](https://jacopomauro.com/) - SDU – Associate Professor - Software Engineering and DevSecOps
 - [Saverio Giallorenzo](https://saveriogiallorenzo.com/) – SDU – Postdoctoral Researcher - Microservice Security
 
-# Sponsoring Institutions
+## Sponsoring Institutions
 
 <a href="https://fe-ddis.dk/cfcs/Pages/cfcs.aspx"><img src="/img/cfcs_logo.svg"></a>
