@@ -1,0 +1,12 @@
+- name: Center for Cybersikkerhed - Forsvarsministeriet
+  type: Funding Agency
+  link: https://fe-ddis.dk/CFCS
+  logo: /assets/images/supporters/fe.png
+- name: IT University of Copenhagen
+  type: Host Institution
+  link: https://www.itu.dk/
+  logo: /assets/images/supporters/itu.png
+- name: University of Southern Denmark
+  type: Host Institution
+  link: https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi
+  logo: /assets/images/supporters/sdu.png

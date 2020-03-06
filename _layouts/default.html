@@ -1,21 +1,37 @@
 <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<!-- General meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<html>
+		{% if page.indexing == false %}
+			<meta name="robots" content="noindex">
+		{% endif %}
 
-{% include head.html %}
+		{% if page.collectionpage %}
+			{% seo title=false %}
 
-<body class="container-flex mx-auto col-10 col-sm-12">
-  
-  {% include navbar.html %}
+			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+			<title>{{ collectiondata.title }} - {{ site.title }}</title>
+			<meta property="og:title" content="{{ collectiondata.title }}">
+			<meta name="description" content="{{ collectiondata.description }}">
+			<meta property="og:description" content="{{ collectiondata.description }}">
+			{% else %}
+			{% seo %}
+		{% endif %}
 
-  {{ content }}
+		{% if site.google_verification_code %}
+		<meta name="google-site-verification" content="{{ site.google_verification_code }}" />
+		{% endif %}
 
-  {% include footer.html %}
+    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
-  {% include scripts.html %}
+		{% include site-favicons.html %}
+	</head>
+	<body class="layout-{{ page.layout }}  {{ page.title | slugify }}">
+		{% include site-icons.svg %}
 
-  {% include google-analytics.html %}
+		{{ content }}
 
-</body>
-
+	</body>
 </html>
