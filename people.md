@@ -10,7 +10,7 @@ The universities are front-runners in developing and promoting best security pra
 The principal co-investigators of the ASCD project are:
 
 <table class="table">
-  <th>Co-principal Investigator</th>
+  <th>Name</th>
   <th>Institution</th>
   <th>Role</th>
   <th>Expertise</th>
