@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-feature_image: "/assets/images/contact.jpg"
+feature_image: "/assets/images/home.jpg"
 ---
 
 If you have any questions, remarks or suggestions regarding the ASCD project,
