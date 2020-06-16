@@ -21,7 +21,7 @@ The main people working in the ASCD project are:
   <td>Human Factors in Security and Privacy</td>
 <tr>
   <td markdown="1">[Jacopo Mauro](https://jacopomauro.com/)
-  <td>University of Southern Denmark, Associate Professor, </td>
+  <td>University of Southern Denmark, Associate Professor</td>
   <td>Co-Principal Investigator</td>
   <td>Software Engineering and DevSecOps</td>
 <tr>
