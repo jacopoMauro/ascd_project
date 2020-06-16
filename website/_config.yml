@@ -58,6 +58,7 @@ header_right: ""
 navigation_header:
   Home: /
   People: /people/
-  "Data Protection": /data-protection/
+  Survey: /survey/
   About: /about/
   Contact: /contact/
+  "Data Protection": /data-protection/
