@@ -5,7 +5,7 @@ feature_image: "/assets/images/people.jpg"
 ---
 
 The IT University of Copenhagen and the University of Southern Denmark are the host institution of the ASCD project.
-The universities are front-runners in developing and promoting best security practices for digital services (see, e.g., our influence on the [NIST document on security practices for microservices](https://csrc.nist.gov/publications/detail/sp/800-204/final)). 
+The universities are front-runners in developing and promoting best security practices for digital services.
 
 The principal co-investigators of the ASCD project are:
 
@@ -29,3 +29,14 @@ The principal co-investigators of the ASCD project are:
   <td>University of Southern Denmark</td>
   <td>Postdoctoral Researcher</td>
   <td>Microservice Security</td>
+<tr>
+  <td markdown="1">[Asmita Dalela](https://pure.itu.dk/portal/en/persons/asmita-dalela(fc5ecfc2-701c-4cd8-8414-e689cadcb58c).html)
+  <td>IT University of Copenhagen</td>
+  <td>Research Assistant</td>
+  <td>Techno-Anthropologist</td>
+<tr>
+  <td markdown="1">[Bjørn Høj Jakobsen](https://portal.findresearcher.sdu.dk/en/persons/bjhj)
+  <td>University of Southern Denmark</td>
+  <td>Compliance Consultant</td>
+  <td>Security Standards</td>
+
