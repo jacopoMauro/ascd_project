@@ -20,6 +20,6 @@ The button below redirects you to the website to take the survey.
 **The survey takes around 10 minutes to complete**. By taking it, <strong>you help us in proposing new solutions to assist Danish organisations in defending themselves against cyberattacks</strong>.
 
 <div markdown="0" class="text-center">
-<a href="https://www.survey-xact.dk/LinkCollector?key=7M8SRXQKJK96">
+<a href="http://www.survey-xact.dk/LinkCollector?key=62ASS945LJ9P">
 <button type="button" class="btn btn-primary btn-lg">Take the Survey</button>
 </a>
