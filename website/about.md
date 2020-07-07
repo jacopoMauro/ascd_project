@@ -59,6 +59,11 @@ The main people working in the ASCD project are:
   <td>Co-principal Investigator</td>
   <td>Microservice Security</td>
 <tr>
+  <td markdown="1">[Elda Paja](https://pure.itu.dk/portal/en/persons/elda-paja(ce1a5350-f645-4a53-a745-fca8d4f1f030).html)
+  <td>IT University of Copenhagen, Assistant Professor</td>
+  <td>Researcher</td>
+  <td>Software Engineering</td>
+<tr>
   <td markdown="1">[Asmita Dalela](https://pure.itu.dk/portal/en/persons/asmita-dalela(fc5ecfc2-701c-4cd8-8414-e689cadcb58c).html)
   <td>IT University of Copenhagen, Research Assistant</td>
   <td>Researcher</td>
