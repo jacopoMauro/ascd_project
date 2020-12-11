@@ -57,6 +57,5 @@ header_right: ""
 # 8. Site navigation
 navigation_header:
   Home: /
-  Survey: /survey/
   About: /about/
   Contact: /contact/

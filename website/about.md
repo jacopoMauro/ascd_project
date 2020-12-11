@@ -34,9 +34,7 @@ Activities planned within the project include:
 ## People 
 
 The IT University of Copenhagen and the University of Southern Denmark are the host institution of the ASCD project.
-The universities are front-runners in developing and promoting best security practices for digital services.
-
-The main people working in the ASCD project are:
+The universities are front-runners in developing and promoting best security practices for digital services. The scientific responsibles for the ASCD project are:
 
 <table class="table">
   <th>Name</th>
@@ -48,28 +46,36 @@ The main people working in the ASCD project are:
   <td>IT University of Copenhagen, Assistant Professor</td>
   <td>Co-Principal Investigator</td>
   <td>Human Factors in Security and Privacy</td>
-<tr>
-  <td markdown="1">[Jacopo Mauro](https://jacopomauro.com/)
+<tr>  <td markdown="1">[Jacopo Mauro](https://jacopomauro.com/)
   <td>University of Southern Denmark, Associate Professor</td>
   <td>Co-Principal Investigator</td>
   <td>Software Engineering and DevSecOps</td>
-<tr>
-  <td markdown="1">[Saverio Giallorenzo](https://saveriogiallorenzo.com/)
-  <td>University of Southern Denmark, Postdoctoral Researcher</td>
-  <td>Co-principal Investigator</td>
-  <td>Microservice Security</td>
-<tr>
-  <td markdown="1">[Elda Paja](https://pure.itu.dk/portal/en/persons/elda-paja(ce1a5350-f645-4a53-a745-fca8d4f1f030).html)
-  <td>IT University of Copenhagen, Assistant Professor</td>
-  <td>Researcher</td>
-  <td>Software Engineering</td>
+
+The other team members are:
+
+<table class="table">
+  <th>Name</th>
+  <th>Affiliation</th>
+  <th>Role</th>
+  <th>Expertise</th>
 <tr>
   <td markdown="1">[Asmita Dalela](https://pure.itu.dk/portal/en/persons/asmita-dalela(fc5ecfc2-701c-4cd8-8414-e689cadcb58c).html)
   <td>IT University of Copenhagen, Research Assistant</td>
   <td>Researcher</td>
   <td>Techno-Anthropologist</td>
 <tr>
+  <td markdown="1">[Saverio Giallorenzo](https://saveriogiallorenzo.com/)
+  <td>University of Bologna, Former Postdoctoral Researcher at SDU</td>
+  <td>Co-principal Investigator</td>
+  <td>Microservice Security</td>
+<tr>
   <td markdown="1">[Bjørn Høj Jakobsen](https://portal.findresearcher.sdu.dk/en/persons/bjhj)
   <td>University of Southern Denmark, Compliance Consultant</td>
   <td>Security Consultant</td>
   <td>Security Standards</td>
+<tr>
+  <td markdown="1">[Elda Paja](https://pure.itu.dk/portal/en/persons/elda-paja(ce1a5350-f645-4a53-a745-fca8d4f1f030).html)
+  <td>IT University of Copenhagen, Assistant Professor</td>
+  <td>Researcher</td>
+  <td>Software Engineering</td>
+
