@@ -34,48 +34,69 @@ Activities planned within the project include:
 ## People 
 
 The IT University of Copenhagen and the University of Southern Denmark are the host institution of the ASCD project.
-The universities are front-runners in developing and promoting best security practices for digital services. The scientific responsibles for the ASCD project are:
+The universities are front-runners in developing and promoting best security practices for digital services. The scientific responsible scientists for the ASCD project are:
+
 
 <table class="table">
-  <th>Name</th>
-  <th>Affiliation</th>
-  <th>Role</th>
-  <th>Expertise</th>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>Affiliation</th>
+<th>Role</th>
+<th>Expertise</th>
+</tr>
+</thead>
+<tbody>
 <tr>
-  <td markdown="1">[Oksana Kulyk](https://pure.itu.dk/portal/da/persons/oksana-kulyk(1dbd1112-eb47-4406-936c-6807e8845610).html)
-  <td>IT University of Copenhagen, Assistant Professor</td>
-  <td>Co-Principal Investigator</td>
-  <td>Human Factors in Security and Privacy</td>
-<tr>  <td markdown="1">[Jacopo Mauro](https://jacopomauro.com/)
-  <td>University of Southern Denmark, Associate Professor</td>
-  <td>Co-Principal Investigator</td>
-  <td>Software Engineering and DevSecOps</td>
+<td><a href="https://pure.itu.dk/portal/da/persons/oksana-kulyk(1dbd1112-eb47-4406-936c-6807e8845610).html">Oksana Kulyk</a></td>
+<td>IT University of Copenhagen, Assistant Professor</td>
+<td>Co-Principal Investigator</td>
+<td>Human Factors in Security and Privacy</td>
+</tr>
+<tr>  
+<td><a href="https://jacopomauro.com/">Jacopo Mauro</a></td>
+<td>University of Southern Denmark, Associate Professor</td>
+<td>Co-Principal Investigator</td>
+<td>Software Engineering and DevSecOps</td>
+</tr>
+</tbody>
+</table>
 
 The other team members are:
 
 <table class="table">
+<thead>
+<tr class="header">
   <th>Name</th>
   <th>Affiliation</th>
   <th>Role</th>
   <th>Expertise</th>
+</tr>
+</thead>
+<tbody>
 <tr>
-  <td markdown="1">[Asmita Dalela](https://pure.itu.dk/portal/en/persons/asmita-dalela(fc5ecfc2-701c-4cd8-8414-e689cadcb58c).html)
+  <td><a href="https://pure.itu.dk/portal/en/persons/asmita-dalela(fc5ecfc2-701c-4cd8-8414-e689cadcb58c).html">Asmita Dalela</a></td>
   <td>IT University of Copenhagen, Research Assistant</td>
   <td>Researcher</td>
   <td>Techno-Anthropologist</td>
+</tr>
 <tr>
-  <td markdown="1">[Saverio Giallorenzo](https://saveriogiallorenzo.com/)
-  <td>University of Bologna, Former Postdoctoral Researcher at SDU</td>
+  <td><a href="https://saveriogiallorenzo.com/">Saverio Giallorenzo</a></td>
+  <td>Università di Bologna, Assistant Professor<br><span class="text-muted">Formerly, University of Southern Denmark, Postdoctoral Researcher</span></td>
   <td>Co-principal Investigator</td>
   <td>Microservice Security</td>
+</tr>
 <tr>
-  <td markdown="1">[Bjørn Høj Jakobsen](https://portal.findresearcher.sdu.dk/en/persons/bjhj)
+  <td><a href="https://portal.findresearcher.sdu.dk/en/persons/bjhj">Bjørn Høj Jakobsen</a></td>
   <td>University of Southern Denmark, Compliance Consultant</td>
   <td>Security Consultant</td>
   <td>Security Standards</td>
+</tr>
 <tr>
-  <td markdown="1">[Elda Paja](https://pure.itu.dk/portal/en/persons/elda-paja(ce1a5350-f645-4a53-a745-fca8d4f1f030).html)
+  <td><a href="https://pure.itu.dk/portal/en/persons/elda-paja(ce1a5350-f645-4a53-a745-fca8d4f1f030).html">Elda Paja</a></td>
   <td>IT University of Copenhagen, Assistant Professor</td>
   <td>Researcher</td>
   <td>Software Engineering</td>
-
+</tr>
+</tbody>
+</table>
