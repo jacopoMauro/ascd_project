@@ -1,4 +1,4 @@
-FROM alpine as Source
+FROM alpine as source
 
 WORKDIR /
 
@@ -9,7 +9,7 @@ ruby ruby-bigdecimal ruby-bundler ca-certificates \
 ruby-dev build-base ruby-webrick ruby-nokogiri ruby-json \
 libxml2-dev libxslt-dev libffi-dev
 
-FROM Source as Build
+FROM source as Build
 
 RUN git clone --depth=1 https://github.com/thesave/ascd_project /git
 WORKDIR /git/website
