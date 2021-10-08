@@ -29,8 +29,8 @@ jobs:
         name: Build and push
         uses: docker/build-push-action@v2
         with:
-          context: ./docker
-          file: Dockerfile
+          context: .
+          file: ./docker/Dockerfile
           platforms: linux/amd64
           tags: jacopomauro/ascd_project
           push: true
