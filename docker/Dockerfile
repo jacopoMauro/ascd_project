@@ -1,4 +1,4 @@
-FROM alpine as source
+FROM ruby:alpine as source
 
 WORKDIR /
 
